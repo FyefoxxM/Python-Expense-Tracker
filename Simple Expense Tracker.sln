@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Simple Expense Tracker", "Simple Expense Tracker.pyproj", "{FD5EA08D-F787-4C65-B706-B9EB27B4EF41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5EA08D-F787-4C65-B706-B9EB27B4EF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5EA08D-F787-4C65-B706-B9EB27B4EF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9FB157-1BEA-406C-BBF2-2524F9387B0C}
+	EndGlobalSection
+EndGlobal
